@@ -149,8 +149,8 @@ body {
 
 @media (max-width: 481px) {
   .container {
-    grid-template-columns: 1fr;
-    grid-template-rows: 2fr;
+    grid-template-columns: 2fr;
+    grid-template-rows: 1fr;
   }
 
   .item-photo:nth-child(even),
